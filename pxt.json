@@ -11,7 +11,9 @@
         "README.md",
         "main.py",
         "tutorial.md",
-        "tutorial2.md"
+        "test02.md",
+        "tutorial2.md",
+        "sumaDeVariables.md"
     ],
     "testFiles": [
         "test.ts"
