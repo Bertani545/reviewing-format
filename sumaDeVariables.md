@@ -3,7 +3,7 @@
 ## Paso 1 @showdialog
 
 Vamos a sumar dos variables y mostrar el resultado
-
+![Agent building a tower](/static/tutorials/example.jpg)
 
 ## Creación de variables
 
