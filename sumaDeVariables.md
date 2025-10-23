@@ -4,7 +4,7 @@
 
 Vamos a sumar dos variables y mostrar el resultado
 
-![Renge](/static/tutorials/example.jpg)
+![Renge](https://raw.githubusercontent.com/Bertani545/reviewing-format/refs/heads/master/static/tutorials/example.jpg)
 
 
 ## Paso 2 @unplugged
