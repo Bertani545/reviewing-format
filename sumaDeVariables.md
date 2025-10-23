@@ -7,9 +7,9 @@ Vamos a sumar dos variables y mostrar el resultado
 ![Renge](/static/tutorials/example.jpg)
 
 
-## Paso 1 @unplugged
+## Paso 2 @unplugged
 
-Vamos a sumar dos variables y mostrar el resultado
+Test image
 
 ![Microbit](/static/tutorials/a9-radio.png)
 
