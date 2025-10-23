@@ -1,8 +1,9 @@
 # Suma de variables
 
-## Paso 1 @showdialog
+## Paso 1 @unplugged
 
 Vamos a sumar dos variables y mostrar el resultado
+
 ![Agent building a tower](/static/tutorials/example.jpg)
 
 ## Creación de variables
