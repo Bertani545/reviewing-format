@@ -4,7 +4,14 @@
 
 Vamos a sumar dos variables y mostrar el resultado
 
-![Agent building a tower](/static/tutorials/example.jpg)
+![Renge](/static/tutorials/example.jpg)
+
+
+## Paso 1 @unplugged
+
+Vamos a sumar dos variables y mostrar el resultado
+
+![Microbit](/static/tutorials/a9-radio.png)
 
 ## Creación de variables
 
